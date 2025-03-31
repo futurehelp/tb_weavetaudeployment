@@ -6,7 +6,7 @@ domains:
 source:
     paths:
         - /
-    branch: develop
+    branch: main
     github:
         id: 955458797
         fullname: futurehelp/tau-testing
