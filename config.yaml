@@ -1,0 +1,5 @@
+id: QmcuuPBvjnr1jVuYMRyNz61Ck4U2A6PSzaXrCtkmr43PBB
+name: weavetaudeployment
+description: weavetaudeployment
+notification:
+    email: drew@weave.services
